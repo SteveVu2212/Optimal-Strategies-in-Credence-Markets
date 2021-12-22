@@ -5,7 +5,7 @@ Chapman University - ECON 696 - Economic System Design 3
 
 # Abstract
 
-It is a market design project that focuses on studying optimal strategies and learning processes of economic agents in credence markets. The markets are prevalent in industries of healthcare, car repair, financial advice, insurances, etc. It is where sellers are expert and take advantage of asymmetry information by possibly providing fraudulent treatments while buyers have a little chance of finding out such distrust behavior.
+It is a market design project that focuses on studying optimal strategies and learning processes of economic agents in credence markets. The markets are prevalent in industries of healthcare, car repair, financial advice, insurances, etc. It is where sellers are experts and take advantage of asymmetry information by possibly providing fraudulent treatments while buyers have a little chance of finding out such distrust behavior.
 
 In the project, rating or reputation operates as a matching mechanism. Buyers arrive stochastically and rate their satisfaction about served services and directly impacts sellers’ future profit. Sellers aim at maximizing long-term profits by creating reliable reputations, learning and updating strategies. There are two bottom-up approaches to the project, including Monte Carlo simulation and Multi-agent Deep Reinforcement Learning.
 
